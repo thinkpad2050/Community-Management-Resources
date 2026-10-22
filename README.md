@@ -80,7 +80,7 @@ Contributions are highly encouraged! Do you have a helpful guide to share, an in
 
 ## Tools
 ### Telegram Community Operations
-* [OpenSparta](https://opensparta.com/en) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace. (Self-submission by the OpenSparta team.)
+* [OpenSparta](https://opensparta.com/en) - Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations. (Self-submission by the OpenSparta team.)
 
 ### Community Analytics
 * [Orbit](https://orbit.love)
